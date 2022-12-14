@@ -6,6 +6,9 @@
 /*
  * Your code goes here
  */
+let petList;
+const element = document.getElementById('ul');
+
 
 /* Deliverable # 2: .createElement()
  * Step 1 - Declare a variable called "newPet".
